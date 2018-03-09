@@ -1,5 +1,3 @@
-#---
-#---
 def trifeca(word):
     """
     Checks whether word contains three consecutive double-letter pairs.
